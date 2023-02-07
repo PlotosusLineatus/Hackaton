@@ -1,0 +1,6 @@
+# fichiers cachés obtenus après lancement du pipeline
+*.log*
+.nextflow/
+
+# les reports potentiellement dedamndés
+report.html*
